@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaterLevelCompleter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6198ef3516f48fdc7da27ae6bab8fc1533e2c1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de2431bd86c811a423183ed602cd78bd1fea3d5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaterLevelCompleter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaterLevelCompleter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
